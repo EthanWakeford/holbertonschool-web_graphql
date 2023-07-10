@@ -9,3 +9,7 @@ const TaskType = new GraphQLObjectType({
     desription: { type: GraphQLString },
   },
 });
+
+const RootQuery = new GraphQLObjectType({
+  
+})
